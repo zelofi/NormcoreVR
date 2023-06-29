@@ -1,5 +1,5 @@
 # NormcoreVR
-A set of tools for beginner Normcore users to use!
+A set of tools for Normcore users to use for VR!
 Featuring names, cosmetics, and easy modification!
 
 # Use of this
