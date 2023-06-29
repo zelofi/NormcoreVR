@@ -1,4 +1,4 @@
-# NormcoreVR
+![Logo](https://github.com/zelofi/NormcoreVR/blob/main/banner.png)
 A set of tools for Normcore users to use for VR!
 Featuring names, cosmetics, and easy modification!
 
